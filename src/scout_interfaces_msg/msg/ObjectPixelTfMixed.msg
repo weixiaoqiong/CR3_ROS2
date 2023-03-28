@@ -1,0 +1,15 @@
+std_msgs/Header header
+builtin_interfaces/Time pixel1_stamp
+string pixel1_label
+float64 pixel1_u1
+float64 pixel1_v1
+float64 pixel1_u2
+float64 pixel1_v2
+geometry_msgs/Transform pixel1_w2c
+builtin_interfaces/Time pixel2_stamp
+string pixel2_label
+float64 pixel2_u1
+float64 pixel2_v1
+float64 pixel2_u2
+float64 pixel2_v2
+geometry_msgs/Transform pixel2_w2c

@@ -1,0 +1,5 @@
+std_msgs/Header header
+string object_label
+float64 object_world_x
+float64 object_world_y
+float64 object_world_z
